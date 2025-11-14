@@ -1,7 +1,12 @@
 name: go_to
 description: "A simple and advanced navigation package for Flutter applications."
 version: 0.0.1
-homepage:
+homepage: https://itsaqibdev.me
+repository: https://github.com/itsaqibdev/go_to
+developers:
+  - name: "itsaqibdev"
+    email: "itsaqibdev@example.com"
+    url: "https://github.com/itsaqibdev"
 
 environment:
   sdk: ^3.8.1

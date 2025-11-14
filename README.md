@@ -197,6 +197,13 @@ GoToNavigator(
 
 Check out the [example](example/main.dart) directory for a complete sample app.
 
+## Author
+
+**itsaqibdev**
+- Website: [itsaqibdev.me](https://itsaqibdev.me)
+- GitHub: [itsaqibdev](https://github.com/itsaqibdev)
+- Fiverr: [itsaqibdev](https://www.fiverr.com/itsaqibdev)
+
 ## SEO Keywords
 
 flutter navigation, flutter routing, go to screen, flutter page navigation, flutter navigator, flutter route parameters, flutter transition, flutter page transition, flutter navigation package, flutter routing package, dart navigation, flutter page routing
